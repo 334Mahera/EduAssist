@@ -92,8 +92,17 @@ streamlit run app.py
 
 ## 📸 Output
 
-Add screenshots of your chatbot inside the `screenshots` folder and display them here.
+### Home Screen
 
+![Home Screen](screenshot 1.png)
+
+### Chatbot Interaction
+
+![Chatbot Interaction](screenshots 2.png)
+
+### Personalized Response
+
+![Personalized Response](screenshots 3.png)
 ---
 
 ## 📈 Future Enhancements
@@ -104,4 +113,3 @@ Add screenshots of your chatbot inside the `screenshots` folder and display them
 * Learning progress tracking
 * Integration with educational resources
 
----
