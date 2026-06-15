@@ -94,15 +94,15 @@ streamlit run app.py
 
 ### Home Screen
 
-![Home Screen](screenshot 1.png)
+![Home Screen](Screenshot1.png)
 
 ### Chatbot Interaction
 
-![Chatbot Interaction](screenshots 2.png)
+![Chatbot Interaction](Screenshot2.png)
 
 ### Personalized Response
 
-![Personalized Response](screenshots 3.png)
+![Personalized Response](Screenshot3.png)
 ---
 
 ## 📈 Future Enhancements
