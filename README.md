@@ -90,21 +90,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Output
-
-### Home Screen
-
-![Home Screen](Screenshot1.png)
-
-### Chatbot Interaction
-
-![Chatbot Interaction](Screenshot2.png)
-
-### Personalized Response
-
-![Personalized Response](Screenshot3.png)
----
-
 ## 📈 Future Enhancements
 
 * Voice-based interaction
